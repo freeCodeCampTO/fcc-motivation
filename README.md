@@ -2,6 +2,8 @@
 
 This is an AWS Lambda function written in Go. It tweets a motivational quote about programming every morning [@freeCodeCampTO](https://twitter.com/freeCodeCampTO). Read the [blog about it](https://medium.freecodecamp.org/running-a-free-twitter-bot-on-aws-lambda-66160eb4de4) on Medium.
 
+The code for the function (`main.go`) runs on AWS Lambda. The quotes themselves are pulled directly from the `index.xml` file in this repo.
+
 # Contributing
 
 We welcome contributions! Here are a few ways you can contribute:
