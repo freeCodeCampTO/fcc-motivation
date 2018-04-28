@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code Motivation</title>
-    <link>https://@@@GITHUB@@@code-motivation/</link>
+    <link>https://cdn.rawgit.com/freeCodeCampTO/fcc-motivation/5b3dde34/index.xml/</link>
     <description>Recent content on Code Motivation</description>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Mar 2018 20:11:13 -0500</lastBuildDate>
     
-        <atom:link href="https://@@@GITHUB@@@code-motivation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://cdn.rawgit.com/freeCodeCampTO/fcc-motivation/5b3dde34/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>      
