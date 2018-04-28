@@ -11,78 +11,95 @@
     
     
     <item>      
-      <description>Simplicity is prerequisite for reliability. – Edsger W. Dijkstra</description>
+      <description>Simplicity is prerequisite for reliability. -- Edsger W. Dijkstra</description>
     </item>
     
     <item>      
-      <description>A program that produces incorrect results twice as fast is infinitely slower. – John Osterhout</description>
+      <description>A program that produces incorrect results twice as fast is infinitely slower. -- John Osterhout</description>
     </item>
     
     <item>      
-      <description>The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. – Brian W. Kernighan, in the paper Unix for Beginners (1979)</description>
+      <description>The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. -- Brian W. Kernighan, in the paper Unix for Beginners (1979)</description>
     </item>
     
     <item>      
-      <description>One of my most productive days was throwing away 1000 lines of code. – Ken Thompson</description>
+      <description>One of my most productive days was throwing away 1000 lines of code. -- Ken Thompson</description>
     </item>
     
     <item>      
-      <description>The cheapest, fastest, and most reliable components are those that aren’t there. – Gordon Bell</description>
+      <description>The cheapest, fastest, and most reliable components are those that aren’t there. -- Gordon Bell</description>
     </item>
     
     <item>      
-      <description>Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else. – Eagleson’s Law</description>
+      <description>Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else. -- Eagleson’s Law</description>
     </item>
     
     <item>      
-      <description>Good code is its own best documentation. – Steve McConnell</description>
+      <description>Good code is its own best documentation. -- Steve McConnell</description>
     </item>
     
     <item>      
-      <description>Optimism is an occupational hazard of programming; feedback is the treatment. – Kent Beck</description>
+      <description>Optimism is an occupational hazard of programming; feedback is the treatment. -- Kent Beck</description>
     </item>
     
     <item>      
-      <description>First, solve the problem. Then, write the code. – John Johnson</description>
+      <description>First, solve the problem. Then, write the code. -- John Johnson</description>
     </item>
     
     <item>      
-      <description>Computers are useless. They can only give you answers. – Pablo Picasso</description>
+      <description>Computers are useless. They can only give you answers. -- Pablo Picasso</description>
     </item>
     
     <item>      
-      <description>One of the best programming skills you can have is knowing when to walk away for awhile. – Oscar Godson</description>
+      <description>One of the best programming skills you can have is knowing when to walk away for awhile. -- Oscar Godson</description>
     </item>
     
     <item>      
-      <description>No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first. – Andy Hunt</description>
+      <description>No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first. -- Andy Hunt</description>
     </item>
     
     <item>      
       <description>Rules of Optimization:
       Rule 1: Don’t do it.
-      Rule 2 (for experts only): Don’t do it yet. – Michael A. Jackson</description>
+      Rule 2 (for experts only): Don’t do it yet. -- Michael A. Jackson</description>
     </item>
     
     <item>      
-      <description>Every great developer you know got there by solving problems they were unqualified to solve until they actually did it. – Patrick McKenzie</description>
+      <description>Every great developer you know got there by solving problems they were unqualified to solve until they actually did it. -- Patrick McKenzie</description>
     </item>
     
     <item>      
-      <description>What one programmer can do in one month, two programmers can do in two months. – Fredrick Brooks</description>
+      <description>What one programmer can do in one month, two programmers can do in two months. -- Fredrick Brooks</description>
     </item>
     
     <item>      
-      <description>Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. – Linus Torvalds</description>
+      <description>Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. -- Linus Torvalds</description>
     </item>
     
     <item>      
-      <description>Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code. – Christopher Thompson</description>
+      <description>Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code. -- Christopher Thompson</description>
     </item>
     
     <item>      
-      <description>In theory, theory and practice are the same. In practice, they’re not. – Yoggi Berra</description>
+      <description>In theory, theory and practice are the same. In practice, they’re not. -- Yoggi Berra</description>
     </item>
     
+    <item>      
+      <description>Programs must be written for people to read, and only incidentally for machines to execute. -- Harold Abelson</description>
+    </item>
+
+    <item>      
+      <description>When you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create. -- Why The Lucky Stiff</description>
+    </item>
+
+    <item>      
+      <description>Give a man a program, frustrate him for a day.
+Teach a man to program, frustrate him for a lifetime. -- Waseem Latif</description>
+    </item>
+
+    <item>      
+      <description>How you look at it is pretty much how you'll see it. -- Rasheed Ogunlaru</description>
+    </item>
+
   </channel>
 </rss>
